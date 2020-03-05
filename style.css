@@ -1,0 +1,34 @@
+
+span{
+    border: 1px solid black;
+}
+.usa{
+    position: absolute;
+    top: 380px;
+    left: 400px;
+}
+.chi{
+   position: absolute;
+    top: 180px;
+    left: 700px; 
+}
+.ind{
+   position: absolute;
+    top: 180px;
+    left: 41px; 
+}
+ .jap{
+   position: absolute;
+    top: 50px;
+    left: 120px; 
+}
+.ger{
+   position: absolute;
+    top: 25px;
+    left: 190px;
+    }
+     .rus{
+   position: absolute;
+    top: 08px;
+    left: 290px;
+    }
